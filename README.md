@@ -13,6 +13,9 @@ Projek POSProject merupakan projek yang berisikan aplikasi penjualan dengan mena
 
 
 Pemograman Berorientasi Objek (PBO) KOM C
+
 Program Studi Ilmu Komputer
+
 Fakultas Ilmu Komputer dan Teknologi Infomasi
+
 Universitas Sumatera Utara
